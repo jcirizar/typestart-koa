@@ -2,8 +2,7 @@ import * as request from 'supertest';
 import app from "../../server";
 import {expect} from 'chai';
 
-
-const query = request(app);
+const query = request.agent(app);
 
 describe('Calculations', () => {
 

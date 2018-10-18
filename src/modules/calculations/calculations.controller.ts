@@ -19,7 +19,7 @@ const log = (data: any) => {
         setTimeout(() => {
             console.log('Data: ', data);
             resolve();
-        }, 3000);
+        }, 1000);
 
     });
 };

@@ -9,4 +9,4 @@ app
   .use(routes.allowedMethods())
   .listen(port, () => console.log(`Listening on port ${port}`));
 
-export default app;
+export default app.listen();

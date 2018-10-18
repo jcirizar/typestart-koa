@@ -1,10 +1,10 @@
-# typestart
+# typestart-koa
 ## Typescript + Koa JumpStart Project
 
 
 ```bash
 git clone git@github.com:jcirizar/typestart-koa.git
-cd typestart
+cd typestart-koa
 npm install
 ```
 
