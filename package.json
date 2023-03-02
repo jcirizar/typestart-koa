@@ -23,7 +23,7 @@
     "@types/node": "^9.6.6",
     "@types/supertest": "^2.0.4",
     "chai": "^4.1.2",
-    "mocha": "^5.1.1",
+    "mocha": "^10.2.0",
     "nodemon": "^1.17.3",
     "supertest": "^3.0.0",
     "ts-mocha": "^1.2.0",
